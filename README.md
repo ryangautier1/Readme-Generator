@@ -35,7 +35,7 @@ node index.js
 ```
 
 ## Gif Showing Application Functionality
-![Gif Showing Application Functionality](./implementationGif.gif)
+![Gif Showing Application Functionality](./ImplementationGif.gif)
 
 ## Picture of me
 ![Picture of me](https://avatars3.githubusercontent.com/u/35753007?v=4)
