@@ -5,6 +5,18 @@
 ## Description
 ${description}
 
+### User Story
+```
+AS a ${userASA}
+I WANT ${userIWant}
+SO THAT ${userSoThat}
+```
+
+### Acceptance Criteria
+```
+${userAcceptanceCriteria}
+```
+
 ## Table of Contents
 
 * [Installation](#installation)
@@ -25,7 +37,13 @@ ${credits}
 ${license}
 
 ## Contributing
+${contributing}
 
 ## Tests
+${tests}
 
 ## Questions
+```
+ Email : ${userEmail}
+```
+![Picture of me](${userPictureUrl})
