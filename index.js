@@ -44,7 +44,7 @@ function promptUser() {
             name: "userAcceptanceCriteria"
         },
         {
-            message: "Enter your porject's installation instructions:",
+            message: "Enter your project's installation instructions:",
             name: "installation"
         },
         {
@@ -171,7 +171,7 @@ async function init() {
             const readMeData = generateReadMe(readMeArray);
             writeFileAsync("README.md", readMeData);
         });
-        console.log("wrote it!")
+        console.log("Your input has been written to README.md!");
     }
     catch (err) {
         console.log(err);
