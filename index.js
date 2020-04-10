@@ -169,7 +169,7 @@ async function init() {
             readMeArray.userPictureUrl = res.data.avatar_url;
 
             const readMeData = generateReadMe(readMeArray);
-            writeFileAsync("README.md", readMeData);
+            writeFileAsync("ExampleREADME.md", readMeData);
         });
         console.log("Your input has been written to README.md!");
     }
